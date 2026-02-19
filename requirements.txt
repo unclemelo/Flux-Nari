@@ -1,0 +1,8 @@
+fluxer.py
+colorama
+asyncio
+aiohttp
+python-dotenv
+aiofiles
+pytz
+requests
